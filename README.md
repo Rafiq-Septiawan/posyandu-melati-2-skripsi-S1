@@ -79,6 +79,8 @@ Project ini dibuat untuk keperluan skripsi/penelitian akademik.
 
 Author
 
-Rafiq Septiawan
+Rafiq Septiawan, S.Kom
+
 Teknik Informatika
+
 Universitas Muhammadiyah Tangerang
